@@ -1,5 +1,7 @@
 # PsMongo
-[Original Repository](https://github.com/oze4/PsMongo_Original)
+
+#[Original Repository Can Be Found Here (not in Visual Studio .sln Format)](https://github.com/oze4/PsMongo_Original)
+
 Powershell module to interact with MongoDB. [More detailed, "live" examples can be found here.](https://github.com/oze4/PsMongo/blob/master/How-To/psMongo_ReadMe.ps1). These examples also contain test JSON data you can use to test saving and retrieving MongoDB data.
 
 <h3>PsMongo Advantages</h3>
