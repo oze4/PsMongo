@@ -12,7 +12,7 @@ Powershell module to interact with MongoDB. [More detailed, "live" examples can 
 
 * Supports local MongoDB Authentication
 
-* Uses supported C# MongoDB Driver
+* Uses supported C# MongoDB Driver *(IL Merge was used to embed MongoDB C# driver into PsMongo.dll)*
 
 
 <h3>Module Functions</h3>
