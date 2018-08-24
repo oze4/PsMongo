@@ -11,7 +11,7 @@
 #
 #
 #
-#M@
+#a Powershell module by Matt Oestreich
 
 <#
 
